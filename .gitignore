@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Rust/Tauri
+src-tauri/target/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Exe
+*.exe
+*.msi
+*.dmg
+
+# Claude Code
+.claude/
+
+# Legacy / misc
+Github/
+/testaudio.wav
+/dist/
+打包文件代码.txt
+*.mp3
