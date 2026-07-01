@@ -4,6 +4,7 @@
 >
 > **你的桌面专注副驾驶 — 零评判、感知节奏、常驻桌面。**
 
+** contact e-mail yingjiefeng0632@gmail.com **
 [![Rust](https://img.shields.io/badge/Rust-1.75%2B-orange)](https://www.rust-lang.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-2-blueviolet)](https://v2.tauri.app/)
 [![React](https://img.shields.io/badge/React-19-blue)](https://react.dev/)
