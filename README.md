@@ -48,17 +48,13 @@ ADHDHolder is a tiny floating desktop app that helps you stay focused. It silent
 
 ### Option 1: Download from GitHub Releases (Recommended)
 
-1. Go to the [**Releases**](https://github.com/yingjiefeng0632-gif/AHDHHOLDER_NEW/releases) page
+1. Go to the [**AHDHHOLDER_NEW**](https://github.com/yingjiefeng0632-gif/AHDHHOLDER_NEW) page
 2. Download the latest installer for Windows:
 
    | File | Description |
-   |---|---|
-   | `ADHDHolder_*_x64-setup.exe` | **NSIS Installer** — installs to your system with Start Menu shortcuts |
-   | `ADHDHolder_*_x64_en-US.msi` | **MSI Package** — system-managed installation |
    | `adhdholder.exe` | **Portable** — double-click to run, no installation needed |
 
-3. Run the installer (or the portable `.exe`)
-4. A small floating widget appears on your desktop — you're ready to go!
+3. A small floating widget appears on your desktop — you're ready to go!
 
 ### System Requirements
 
